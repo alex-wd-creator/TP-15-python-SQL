@@ -26,3 +26,8 @@ eliminar un dato en concreto usando where e input para el usuario desde python.
 archivo .bat que crea un entorno .venv ya listo para el usuario que utilice mi programa. en ese entorno .venv debe estar tambien la libreria para usar mysql.connector por lo tanto debe estar en el .bat.
 
 El objetivo de esas preguntas fue solo aprender aspectos que no estaban incluidos dentro del material aportado en clase.
+
+
+
+
+- Se recomienda utilizar el archivo instalar.bat para que se cree el entorno .venv automaticamente y evitar errores.
